@@ -45,7 +45,7 @@ prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pyarrow==0.17.1
 pygeos==0.7.1
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 pyproj @ file:///home/conda/feedstock_root/build_artifacts/pyproj_1588596072923/work
 pyrsistent==0.16.0
